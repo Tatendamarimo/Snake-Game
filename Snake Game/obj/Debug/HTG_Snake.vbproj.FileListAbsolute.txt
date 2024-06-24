@@ -1,0 +1,12 @@
+C:\Users\taten\source\repos\HTG_Snake-master\HTG_Snake\bin\Debug\HTG_Snake.exe.config
+C:\Users\taten\source\repos\HTG_Snake-master\HTG_Snake\bin\Debug\HTG_Snake.exe
+C:\Users\taten\source\repos\HTG_Snake-master\HTG_Snake\bin\Debug\HTG_Snake.pdb
+C:\Users\taten\source\repos\HTG_Snake-master\HTG_Snake\bin\Debug\HTG_Snake.xml
+C:\Users\taten\source\repos\HTG_Snake-master\HTG_Snake\obj\Debug\HTG_Snake.vbproj.AssemblyReference.cache
+C:\Users\taten\source\repos\HTG_Snake-master\HTG_Snake\obj\Debug\HTG_Snake.frmSnake.resources
+C:\Users\taten\source\repos\HTG_Snake-master\HTG_Snake\obj\Debug\HTG_Snake.Resources.resources
+C:\Users\taten\source\repos\HTG_Snake-master\HTG_Snake\obj\Debug\HTG_Snake.vbproj.GenerateResource.cache
+C:\Users\taten\source\repos\HTG_Snake-master\HTG_Snake\obj\Debug\HTG_Snake.vbproj.CoreCompileInputs.cache
+C:\Users\taten\source\repos\HTG_Snake-master\HTG_Snake\obj\Debug\HTG_Snake.exe
+C:\Users\taten\source\repos\HTG_Snake-master\HTG_Snake\obj\Debug\HTG_Snake.xml
+C:\Users\taten\source\repos\HTG_Snake-master\HTG_Snake\obj\Debug\HTG_Snake.pdb
