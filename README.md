@@ -23,7 +23,7 @@ Follow these steps to install and run the Snake Game on your system:
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/Tatendamarimo/Snake-Game.git
    cd snake-game
    ```
 
